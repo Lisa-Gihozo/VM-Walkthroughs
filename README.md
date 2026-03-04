@@ -1,5 +1,4 @@
 🛡️ **Cybersecurity Laboratory & VM Walkthroughs**
-Focused on Penetration Testing Methodology & Vulnerability Remediation
 
 This repository serves as a technical portfolio of my hands-on experience with various capture-the-flag (CTF) environments and vulnerable virtual machines. My approach prioritizes the Full Attack Lifecycle: from initial reconnaissance to professional-grade remediation reporting.
 
