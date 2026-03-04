@@ -3,13 +3,14 @@
 This repository serves as a technical portfolio of my hands-on experience with various capture-the-flag (CTF) environments and vulnerable virtual machines. My approach prioritizes the Full Attack Lifecycle: from initial reconnaissance to professional-grade remediation reporting.
 
 📊 Skills Matrix
-This table summarizes the technical competencies demonstrated through the exploitation and remediation of various laboratory environments.
-Machine	Focus Area	Key Vulnerability	Primary Tools
-📁 VulnUpload	Web App Security	Unrestricted File Uplooad, Nikto
-🤖 Mr. Robot	Web Enumeration	Information Disclosure / SUID	Gobuster, Hydra
-📸 Mr. Photographer	CMS Exploitation	RCE / Insecure Sudo (PHP)	Burp Suite, GTFOBins
-⚙️ DC-6	CMS Hardening	CVE-2018-15877 / Script Abuse	WPScan, Nmap Scripting
-🐕 Skydog CTF	Layered Security	MD5 Cracking / Web Headers	Nikto, Hydra
+This table summarizes the technical competencies demonstrated through the exploitation and remediation of various laboratory environment
+| Machine | Focus Area | Key Vulnerability | Primary Tools |
+| :--- | :--- | :--- | :--- |
+| 📁 **VulnUpload** | Web App Security | **Unrestricted File Upload / RCE** | Nikto, Nmap|
+| 🤖 **Mr. Robot** | Web Enumeration | **Information Disclosure / SUID** | Nikto, Hydra |
+| 📸 **Mr. Photographer** | CMS Exploitation | **RCE / Insecure Sudo (PHP)** | Burp Suite, GTFOBins |
+| ⚙️ **DC-6** | CMS Hardening | **CVE-2018-15877 / Script Abuse** | Hydra, Nmap Scripting |
+| 🐕 **Skydog CTF** | Layered Security | **MD5 Cracking / Web Headers** | Nikto, Hydra |
 
 📁 **Repository Structure**
 
