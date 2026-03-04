@@ -12,3 +12,4 @@ This challenge focuses heavily on web-based reconnaissance and the exploitation 
 ### 🛠️ Tools Used
 * **Recon:** Nmap, Nikto, Gobuster
 * **Web Analysis:** Browser Developer Tools
+* **Cracking**: Hydra
