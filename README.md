@@ -9,8 +9,9 @@ This table summarizes the technical competencies demonstrated through the exploi
 | 📁 **VulnUpload** | Web App Security | **Unrestricted File Upload / RCE** | Nikto, Nmap|
 | 🤖 **Mr. Robot** | Web Enumeration | **Information Disclosure / SUID** | Nikto, Hydra |
 | 📸 **Mr. Photographer** | CMS Exploitation | **RCE / Insecure Sudo (PHP)** | Burp Suite, GTFOBins |
-| ⚙️ **DC-6** | CMS Hardening | **CVE-2018-15877 / Script Abuse** | Hydra, Nmap Scripting |
+| ⚙️ **DC-6** | CMS Hardening | **CVE-2018-15877 / Script Abuse** | Hydra, Nmap |
 | 🐕 **Skydog CTF** | Layered Security | **MD5 Cracking / Web Headers** | Nikto, Hydra |
+| 🪷 **Kioptrix 1.2** | Web App Security|**CVE-2020-8641/MD5 Cracking** | Nmap, Crackstation |
 
 📁 **Repository Structure**
 
