@@ -1,4 +1,5 @@
 Severity Rating: Critical (CVSS 9.8)
+
 Objective: Gain initial access through a vulnerable web application and escalate privileges from a web-user to root.
 
 🛡️ Vulnerability Overview
