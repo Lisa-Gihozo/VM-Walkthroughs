@@ -1,6 +1,8 @@
-Severity Rating: Critical (CVSS 9.8)
+# VM Walkthrough: Kioptrix 1.2
 
-Objective: Gain initial access through a vulnerable web application and escalate privileges from a web-user to root.
+**Severity Rating**: Critical (CVSS 9.8)
+
+**Objective**: Gain initial access through a vulnerable web application and escalate privileges from a web-user to root.
 
 🛡️ Vulnerability Overview
 
