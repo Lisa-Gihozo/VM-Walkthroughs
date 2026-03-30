@@ -12,7 +12,7 @@ This table summarizes the technical competencies demonstrated through the exploi
 | ⚙️ **DC-6** | CMS Hardening | **CVE-2018-15877 / Script Abuse** | Hydra, Nmap |
 | 🐕 **Skydog CTF** | Layered Security | **MD5 Cracking / Web Headers** | Nikto, Hydra |
 | 🪷 **Kioptrix 1.2** | Web App Security|**CVE-2020-8641/MD5 Cracking** | Nmap, Crackstation |
-| **Eh-vibes** | Cron jobs | **Unrestricted File Upload / RCE / Misconfigured cron job**|Nmap, Gobuster, Curl|
+| 💾 **Eh-vibes** | Cron jobs | **Unrestricted File Upload / RCE / Misconfigured cron job**|Nmap, Gobuster, Curl|
 
 📁 **Repository Structure**
 
